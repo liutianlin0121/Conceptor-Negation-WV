@@ -1,0 +1,5 @@
+
+produceSmallWordVecs.ipynb
+.DS_Store
+.ipynb_checkpoints/
+*.txt
