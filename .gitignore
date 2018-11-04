@@ -2,4 +2,5 @@
 produceSmallWordVecs.ipynb
 .DS_Store
 .ipynb_checkpoints/
-*.txt
+small_glove.txt
+small_word2vec.txt
